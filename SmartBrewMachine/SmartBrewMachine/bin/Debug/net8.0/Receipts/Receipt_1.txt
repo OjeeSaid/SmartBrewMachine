@@ -1,0 +1,18 @@
+---------------------------------------------
+           SMARTBREW RECEIPT
+---------------------------------------------
+Order ID:       1
+Date:           2026-10-27 22:51:36
+Customer:       Guest
+
+Drink:          Espresso
+Size:           Medium
+Extra Sugar:    0
+Extra Milk:     No
+
+Payment Method: Card
+Total:          25 SEK
+
+---------------------------------------------
+      Thank you for your purchase!
+---------------------------------------------

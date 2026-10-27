@@ -1,0 +1,14 @@
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\bin\Debug\net8.0\SmartBrewMachine.exe
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\bin\Debug\net8.0\SmartBrewMachine.deps.json
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\bin\Debug\net8.0\SmartBrewMachine.runtimeconfig.json
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\bin\Debug\net8.0\SmartBrewMachine.dll
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\bin\Debug\net8.0\SmartBrewMachine.pdb
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\obj\Debug\net8.0\SmartBrewMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\obj\Debug\net8.0\SmartBrewMachine.AssemblyInfoInputs.cache
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\obj\Debug\net8.0\SmartBrewMachine.AssemblyInfo.cs
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\obj\Debug\net8.0\SmartBrewMachine.csproj.CoreCompileInputs.cache
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\obj\Debug\net8.0\SmartBrewMachine.dll
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\obj\Debug\net8.0\refint\SmartBrewMachine.dll
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\obj\Debug\net8.0\SmartBrewMachine.pdb
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\obj\Debug\net8.0\SmartBrewMachine.genruntimeconfig.cache
+C:\Users\Ojee\source\repos\SmartBrewMachine\SmartBrewMachine\obj\Debug\net8.0\ref\SmartBrewMachine.dll
